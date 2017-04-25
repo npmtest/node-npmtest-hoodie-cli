@@ -18,7 +18,7 @@
 <tspan x="10" y="250">├── prompt@0.2.14 (revalidator@0.1.8, pkginfo@0.4.0, read@1.0.7, utile@0.2.1, winston@0.8.3)</tspan>
 <tspan x="10" y="266">├── update-notifier@0.2.2 (is-npm@1.0.0, semver-diff@2.1.0, chalk@0.5.1, string-length@1.0.1, la\</tspan>
 <tspan x="10" y="282">test-version@1.0.1, configstore@0.3.2)</tspan>
-<tspan x="10" y="298">├── insight@0.4.3 (object-assign@1.0.0, chalk@0.5.1, tough-cookie@0.12.1, lodash.debounce@2.4.1,\</tspan>
+<tspan x="10" y="298">├── insight@0.4.3 (object-assign@1.0.0, chalk@0.5.1, lodash.debounce@2.4.1, tough-cookie@0.12.1,\</tspan>
 <tspan x="10" y="314"> os-name@1.0.3, configstore@0.3.2, request@2.81.0, inquirer@0.6.0)</tspan>
 <tspan x="10" y="330">├── cli-color@0.3.3 (d@0.1.1, timers-ext@0.1.2, memoizee@0.3.10, es5-ext@0.10.15)</tspan>
 <tspan x="10" y="346">└── npm@2.15.12</tspan>
